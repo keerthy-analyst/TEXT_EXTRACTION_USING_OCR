@@ -1,0 +1,2 @@
+# TEXT_EXTRACTION_USING_OCR
+Text_extraction_Using_OCR
