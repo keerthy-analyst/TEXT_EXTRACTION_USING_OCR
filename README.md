@@ -13,7 +13,7 @@ import base64
 import streamlit as st
 from streamlit_option_menu import option_menu
 ```
-# Created a Table in SQL by connecting python with SQL DB SQLITE3
+# Created a Table in SQL by connecting python with SQL DB using SQLITE3
 ```python
 conn = sqlite3.connect('mydatabase.db', check_same_thread=False)
 cursor = conn.cursor()
