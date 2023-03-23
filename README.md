@@ -49,4 +49,5 @@ conn.commit()
  Local URL: http://localhost:8502
  Network URL: http://192.168.0.102:8502
 
-
+# Link to view full video posted on my Linkedin
+https://www.linkedin.com/posts/activity-7044629774253625344-x69e?utm_source=share&utm_medium=member_desktop
